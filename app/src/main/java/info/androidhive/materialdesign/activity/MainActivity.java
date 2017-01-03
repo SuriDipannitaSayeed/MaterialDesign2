@@ -1,5 +1,6 @@
 package info.androidhive.materialdesign.activity;
 
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -14,7 +15,7 @@ import android.widget.Toast;
 
 import info.androidhive.materialdesign.R;
 
-public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {
+public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener,tasks.OnFragmentInteractionListener {
 
     private static String TAG = MainActivity.class.getSimpleName();
 
@@ -102,5 +103,10 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
             // set the toolbar title
             getSupportActionBar().setTitle(title);
         }
+    }
+
+    @Override
+    public void onFragmentInteraction(Uri uri) {
+
     }
 }
