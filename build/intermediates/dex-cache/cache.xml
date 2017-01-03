@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_60c2452150c1845fdbe2b27705055916c8f8cc1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\gson-2.3.1_97d88c3bc54dba50dacc9e0f51bb26e8fa1ef659.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_d9766927c81d7d1f32308f4ce19911a45dd537ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\okio-1.4.0_176bbb9e2f1967cbc461786c5c1b3a12c5e79d9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_0197750b2eca1ad3bd05b25fec8906865edc60d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_c827c31ee0d88a9b42e7225a4f192cf09acd0d29.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_4ef47a2a16ac5840e6bcefeb4d8da7dfd6da35cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_19bf936492ca4d5b37b31f786ef69b61d368bca5.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_ab0ba32a46a228b2b16586c2e050c70d9b9f1ba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b7204335257bf4f27755418786fe6295bdb3ecd8">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\instant-run_b29a48261ee4a98003017d263c192c0ad555fc2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0484c3b744cad8901c92fdc85f8c6543b676ca5f">
+        <dex dex="C:\Users\shama\Downloads\MaterialDesign\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_95287996078692e04801b01d26bf275c6719b910.jar" />
+    </item>
+
+</items>
